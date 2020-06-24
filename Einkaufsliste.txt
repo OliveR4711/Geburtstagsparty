@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Bier 
+Wein
+Wasser
+=======
+Bier
+Salzstangen
+Fleisch
+>>>>>>> einkaufsliste
